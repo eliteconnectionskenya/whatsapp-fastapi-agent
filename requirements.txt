@@ -1,0 +1,9 @@
+  ```text
+   fastapi
+   uvicorn[standard]
+   pydantic
+   pydantic-settings
+   httpx
+   openai
+   python-dotenv
+   ```
